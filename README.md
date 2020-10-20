@@ -1,3 +1,6 @@
-# Praktikum-
+# Praktikum-2
 
-Pemrograman Casar
+Filza Hisana
+20051397018
+
+Pemrograman Dasar
