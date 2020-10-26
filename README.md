@@ -1,4 +1,4 @@
-# Tugas Praktik Pemrograman Dasar
+# Tugas 2 Praktik Pemrograman Dasar
 
 Filza Hisana
 
